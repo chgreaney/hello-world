@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi,
+
+I'm Clark and I'm baking a cake.
